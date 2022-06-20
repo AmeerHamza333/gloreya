@@ -1530,7 +1530,7 @@ return(
               // sx = {{display: {xs: "block", sm: "none"}}}
               style={{ marginLeft: "0px", height: "auto"}}
             >
-              <Badge badgeContent={cartdataorig?.length == 0 ? "0" : cartdataorig?.length} color="warning" style={{display: (location.pathname == "/menu" || location.pathname == '/gloreya' || location.pathname == '/menu/pizza' || location.pathname == '/menu/sushi' || location.pathname == '/menu/salat' || location.pathname == '/menu/burger' || location.pathname == '/menu/desert') ? "block" : "none" }}>
+              <Badge badgeContent={cartdataorig?.length == 0 ? "0" : cartdataorig?.length} color="warning" style={{display:  (location.pathname == "/menu" || location.pathname == "/" || location.pathname == '/gloreya' || location.pathname == '/menu/pizza' || location.pathname == '/menu/sushi' || location.pathname == '/menu/salat' || location.pathname == '/menu/burger' || location.pathname == '/menu/desert') ? "block" : "none" }}>
                 <LocalMallIcon fontSize='small' style={{color: "white"}}/>
               </Badge>
             </IconButton>
