@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gloreya/static/css/main.492d7497.css",
-    "main.js": "/gloreya/static/js/main.ea2fb6af.js",
+    "main.js": "/gloreya/static/js/main.244b661a.js",
     "static/js/787.58ce58f8.chunk.js": "/gloreya/static/js/787.58ce58f8.chunk.js",
     "index.html": "/gloreya/index.html",
     "main.492d7497.css.map": "/gloreya/static/css/main.492d7497.css.map",
-    "main.ea2fb6af.js.map": "/gloreya/static/js/main.ea2fb6af.js.map",
+    "main.244b661a.js.map": "/gloreya/static/js/main.244b661a.js.map",
     "787.58ce58f8.chunk.js.map": "/gloreya/static/js/787.58ce58f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.492d7497.css",
-    "static/js/main.ea2fb6af.js"
+    "static/js/main.244b661a.js"
   ]
 }
