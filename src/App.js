@@ -22,7 +22,7 @@ function App() {
 <ScrollToTop/>    
       <Routes >
         <Route exact path="/gloreya" element={<OurMenu/>} />
-        <Route exact path="/gloreya/" element={<OurMenu/>} />
+        {/* <Route exact path="/gloreya" element={<OurMenu/>} /> */}
           <Route exact path="/menu" element={<Menu />} />
           <Route exact path="/menu/pizza" element={<Menu />} />
           <Route exact path="/menu/sushi" element={<Menu />} />
